@@ -17,7 +17,7 @@ p{
     font-size:25px;
 }
 .block{
-    width:1000px;
+    width:750px;
     background-color: darkorchid;
     padding:5px;
     border:2px solid red;
@@ -25,6 +25,6 @@ p{
 .last{
     float:left;
     background-color: darkviolet;
-    margin-top:25%;
+    margin-top:400%;
     border:2px solid darkred;
 }
